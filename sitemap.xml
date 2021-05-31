@@ -4,13 +4,28 @@
     
         
         <url>
-            <loc>https://noble-gas.github.io/categories/</loc>
+            <loc>https://noble-gas.github.io/</loc>
+            <lastmod>2021-05-30T23:47:19-07:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://noble-gas.github.io/</loc>
+            <loc>https://noble-gas.github.io/posts/</loc>
+            <lastmod>2021-05-30T23:47:19-07:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://noble-gas.github.io/posts/second-post/</loc>
+            <lastmod>2021-05-30T23:47:19-07:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://noble-gas.github.io/categories/</loc>
         </url>
         
     
